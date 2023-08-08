@@ -1,15 +1,22 @@
-### Olá! Eu sou Richard "Midas", Desenvolvedor web ☕.
-#### Meus contatos
+### Olá, Eu sou Richard "Midas".
+## Desenvolvedor web ☕.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=midas-codde&show_icons=true&theme=tokyonight"><img/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midas-codde&layout=compact&theme=tokyonight"><img/>
+##
+<div style="display: inline-block">
+  <img align="center" alt="Midas-JS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img/>
+  <img align="center" alt="Midas-TYPESCRIPT" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><img/>
+  <img align="center" alt="Midas-REACT" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><img/>
+  <img align="center" alt="Midas-VUE" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"><img/>
+  <img align="center" alt="Midas-HTML" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img/>
+  <img align="center" alt="Midas-CSS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img/>
+  <img align="center" alt="Midas-SASS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"><img/>
+  <img align="center" alt="Midas-PHP" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"><img/>
+</div>
+
+##
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521973972811) [![Gmail]( 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardisraelmagalhaes@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-israel-667462246/)
-
-
-## Tecnologias que uso no meu dia a dia. 
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]() [![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]() [![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]() [![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
-
-### Tecnologias que estudo atualmente.
-
- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]() [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação 💻.
 
