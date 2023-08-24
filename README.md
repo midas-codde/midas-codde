@@ -2,9 +2,6 @@
 ## Desenvolvedor web ☕.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midas-codde&show_icons=true&theme=tokyonight"><img/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midas-codde&layout=compact&theme=tokyonight"><img/>]
-<script>
-const PAT_1 = "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";
-</script>
 ##
 <div style="display: inline-block">
   <img align="center" alt="Midas-JS" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img/>
